@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sobolek7771
 - 👀 I’m interested in sql, python
-- 🌱 I’m currently learning sql, python
+- 🌱 I’m currently learning sql, python, html, css, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me n.sobolekov@gmail.com
 
