@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sobolek7771
+- 👋 Hi, I’m @sobolek7771
 - 👀 I’m interested in Android, Kotlin, Java
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
